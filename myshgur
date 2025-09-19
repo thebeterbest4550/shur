@@ -59,7 +59,3 @@
     84% { background-color:#00ffcc; }
     100% { background-color:#ff00aa; }
   }
-
-  /* Progress bars */
-  .progress-container { background: rgba(255,255,255,0.2); border-radius: 8px; height:10px; overflow:hidden; margin-top:5px; }
-  .progress-bar { height
